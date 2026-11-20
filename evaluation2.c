@@ -15,8 +15,8 @@ int main() {
             oddsum=oddsum+i;
         }
         }
-    printf("Sum of Even Numbers =%d\n", evensum);
-    printf("Sum of Odd Numbers =%d\n", oddsum);
+    printf("Sum of Even Number=%d\n",evensum);
+    printf("Sum of Odd Number=%d\n",oddsum);
 
     return 0;
 }
